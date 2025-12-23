@@ -180,9 +180,8 @@ Reporte para: `vieirarayssa207@gmail.com`
 - **Tecnologias**: HTML5, CSS3, JavaScript puro
 
 ### Contato:
-- **GitHub**: [@RayssaVieira207](https://github.com/RayssaVieira207)
+- **GitHub**: [@Vieirarayssa207](https://github.com/Vieirarayssa207)
 - **Email**: vieirarayssa207@gmail.com
-- **Instagram**: [@luanna_gomess07](https://www.instagram.com/luanna_gomess07)
 
 ## 📄 Licença e Termos de Uso
 
